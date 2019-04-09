@@ -1,0 +1,102 @@
+Uniform #	Name	Position	Age	Height	Weight	University	Salary	Team
+34	Giannis Antetokounmpo	PF	23	6-11	222	Euro State 	$22,471,910	Milwaukee Bucks
+6	Eric Bledsoe	PG	28	6-1	205	Kentucky	$14,500,000	Milwaukee Bucks
+24	Joel Bolomboy	PF	23	6-9	235	Weber State	$815,615 	Milwaukee Bucks
+13	Malcolm Brogdon	PG	24	6-5	215	Virginia	$1,312,611	Milwaukee Bucks
+23	Sterling Brown	SG	22	6-6	230	SMU	$815,615	Milwaukee Bucks
+8	Matthew Dellavedova	PG	27	6-4	198	Saint Mary's	$9,607,500	Milwaukee Bucks
+31	John Henson	PF	26	6-11	229	North Carolina	$11,422,536	Milwaukee Bucks
+25	DeAndre Liggins	SG	29	6-6	209	Kentucky	$1,471,382	Milwaukee Bucks
+7	Thon Maker	C	20	7-1	223	No State 	$2,684,160	Milwaukee Bucks
+22	Khris Middleton	SF	26	6-8	234	Texas A&M	$14,100,000	Milwaukee Bucks
+12	Jabari Parker	PF	22	6-8	250	Duke	$6,782,392	Milwaukee Bucks
+0	Gary Payton II	PG	25	6-3	190	Oregon State	$815,615	Milwaukee Bucks
+21	Tony Snell	SG	26	6-7	221	New Mexico	$9,887,640	Milwaukee Bucks
+35	Mirza Teletovic	PF	32	6-9	242	Euro State 	$10,500,000	Milwaukee Bucks
+3	Jason Terry	SG	40	6-2	185	Arizona	$1,471,382	Milwaukee Bucks
+20	Rashad Vaughn	SG	21	6-6	202	UNLV	$1,889,040	Milwaukee Bucks
+5	D.J. Wilson	PF	21	6-10	236	Michigan	$2,135,040	Milwaukee Bucks
+1	Justin Anderson	SG	24	6-6	230	Virginia	$1,579,440	Philadelphia 76ers
+0	Jerryd Bayless	PG	29	6-3	200	Arizona	$9,000,000	Philadelphia 76ers
+35	Trevor Booker	PF	30	6-8	228	Clemson	$9,125,000	Philadelphia 76ers
+33	Robert Covington	SF	26	6-9	225	Tennessee State	$16,698,103	Philadelphia 76ers
+21	Joel Embiid	C	23	7-0	250	Kansas	$6,100,266	Philadelphia 76ers
+20	Markelle Fultz	PG	19	6-4	200	Washington	$7,026,240	Philadelphia 76ers
+22	Richaun Holmes	PF	24	6-10	235	Bowling Green	$1,471,382	Philadelphia 76ers
+5	Amir Johnson	PF	30	6-9	240	No State 	$11,000,000	Philadelphia 76ers
+30	Furkan Korkmaz	SG	20	6-7	190	No State 	$1,465,920	Philadelphia 76ers
+7	Timothe Luwawu-Cabarrot	SG	22	6-6	200	No State 	$1,386,600	Philadelphia 76ers
+14	James Michael McAdoo	SF	24	6-9	230	North Carolina	$815,615 	Philadelphia 76ers
+12	T.J. McConnell	PG	25	6-2	190	Arizona	$1,471,382	Philadelphia 76ers
+00	Jacob Pullen	PG	28	6-1	200	Kansas State	$815,615	Philadelphia 76ers
+17	JJ Redick	SF	33	6-4	200	Duke	$23,000,000	Philadelphia 76ers
+9	Dario Saric	PF	23	6-10	223	No State 	$2,422,560	Philadelphia 76ers
+25	Ben Simmons	PG	21	6-10	230	LSU	$6,168,840	Philadelphia 76ers
+2	Jordan Bell	PF	22	6-9	224	Oregon	$815,615	Golden State Warriors
+25	Chris Boucher	PF	24	6-10	200	Oregon	$815,615	Golden State Warriors
+18	Omri Casspi	SF	29	6-9	225	No State 	$1,471,382	Golden State Warriors
+4	Quinn Cook	PG	24	6-2	179	Duke	$815,615	Golden State Warriors
+30	Stephen Curry	PG	29	6-3	190	Davidson	$34,382,550	Golden State Warriors
+35	Kevin Durant	SF	29	6-9	240	Texas	$25,000,000	Golden State Warriors
+23	Draymond Green	PF	27	6-7	230	Michigan State	$16,400,000	Golden State Warriors
+9	Andre Iguodala	SF	33	6-6	215	Arizona	$14,814,815	Golden State Warriors
+15	Damian Jones	C	22	7-0	245	Vanderbilt	$1,312,611	Golden State Warriors
+34	Shaun Livingston	PG	32	6-7	192	No State 	$7,692,308	Golden State Warriors
+5	Kevon Looney	SF	21	6-9	220	UCLA	$1,471,382	Golden State Warriors
+0	Patrick McCaw	SG	22	6-7	185	UNLV	$1,312,611	Golden State Warriors
+1	JaVale McGee	C	29	7-0	270	Nevada	$1,471,382	Golden State Warriors
+27	Zaza Pachulia	C	33	6-11	270	No State 	$3,477,600	Golden State Warriors
+11	Klay Thompson	SG	27	6-7	215	Washington State	$17,826,150	Golden State Warriors
+3	David West	PF	37	6-9	250	Xavier	$1,471,382	Golden State Warriors
+6	Nick Young	SG	32	6-7	210	USC	$5,192,000	Golden State Warriors
+81	Jose Calderon	PG	36	6-3	200	No State 	$1,471,382	Cleveland Cavaliers
+99	Jae Crowder	PF	27	6-6	235	Marquette	$6,796,117	Cleveland Cavaliers
+8	Channing Frye	PF	34	6-11	255	Arizona	$7,420,912	Cleveland Cavaliers
+32	Jeff Green	SF	31	6-9	235	Georgetown	$1,471,382	Cleveland Cavaliers
+10	John Holland	SG	29	6-5	205	Boston University	$815,615	Cleveland Cavaliers
+23	LeBron James	SF	32	6-8	250	No State 	$33,285,709	Cleveland Cavaliers
+26	Kyle Korver	SG	36	6-7	212	Creighton	$7,000,000	Cleveland Cavaliers
+0	Kevin Love	PF	29	6-10	251	UCLA	$22,642,350	Cleveland Cavaliers
+16	Cedi Osman	SF	22	6-8	215	No State 	$2,642,857	Cleveland Cavaliers
+15	London Perrantes	PG	23	6-2	190	Virginia	$815,615	Cleveland Cavaliers
+1	Derrick Rose	PG	29	6-3	190	Memphis	$1,471,382	Cleveland Cavaliers
+4	Iman Shumpert	SG	27	6-5	220	Georgia Tech	$10,337,079	Cleveland Cavaliers
+5	JR Smith	SG	32	6-6	225	No State 	$13,760,000	Cleveland Cavaliers
+3	Isaiah Thomas	PG	28	5-9	185	Washington	$6,261,395	Cleveland Cavaliers
+13	Tristan Thompson	C	26	6-9	238	Texas	$16,400,000	Cleveland Cavaliers
+9	Dwyane Wade	SG	35	6-4	220	Marquette	$1,471,382	Cleveland Cavaliers
+41	Ante Zizic	PF	20	6-11	250	Euro State 	$1,645,200	Cleveland Cavaliers
+31	Ron Baker	SG	24	6-4	220	Wichita State	$4,328,000	New York Knicks
+8	Michael Beasley	SF	28	6-9	235	Kansas State	$1,471,382	New York Knicks
+21	Damyean Dotson	SG	23	6-5	210	Houston	$1,100,000	New York Knicks
+3	Tim Hardaway Jr.	SF	25	6-6	205	Michigan	$16,500,000	New York Knicks
+14	Willy Hernangomez	C	23	6-11	240	No State	$1,435,750	New York Knicks
+4	Isaiah Hicks	PF	23	6-9	242	North Carolina	$1,471,382	New York Knicks
+55	Jarrett Jack	PG	34	6-3	200	Georgia Tech	$1,471,382	New York Knicks
+00	Enes Kanter	C	25	6-11	245	Kentucky	$17,884,176	New York Knicks
+2	Luke Kornet	PF	22	7-1	250	Vanderbilt	$815,615	New York Knicks
+5	Courtney Lee	SG	32	6-5	200	Western Kentucky	$11,747,890	New York Knicks
+20	Doug McDermott	SF	25	6-8	219	Creighton	$3,294,994	New York Knicks
+13	Joakim Noah	C	32	6-11	230	Florida	$17,765,000	New York Knicks
+11	Frank Ntilikina	PG	19	6-5	190	No State 	$3,501,120	New York Knicks
+9	Kyle O'Quinn	C	27	6-10	250	Norfolk State	$4,087,500	New York Knicks
+6	Kristaps Porzingis	PF	22	7-3	240	No State 	$4,503,600	New York Knicks
+1	Ramon Sessions	PG	31	6-3	190	Nevada	$1,471,382	New York Knicks
+42	Lance Thomas	SF	29	6-8	235	Duke	$6,655,325	New York Knicks
+35	Dragan Bender	PF	20	7-1	225	Euro State	$4,468,800	Phoenix Suns
+1	Devin Booker	SG	21	6-6	210	Kentucky	$2,319,360	Phoenix Suns
+4	Tyson Chandler	C	35	7-1	240	No State 	$13,000,000	Phoenix Suns
+0	Marquese Chriss	PF	20	6-10	240	Washington	$3,073,800	Phoenix Suns
+30	Troy Daniels	SG	26	6-4	205	Virginia Commonwealth	$3,408,520	Phoenix Suns
+3	Jared Dudley	SF	32	6-7	240	Boston College	$10,000,000	Phoenix Suns
+23	Danuel House Jr.	SF	24	6-7	220	Texas A&M	$543,471	Phoenix Suns
+20	Josh Jackson	SF	20	6-8	200	Kansas	$5,090,040	Phoenix Suns
+55	Mike James	PG	27	6-1	195	Lamar	$815,615 	Phoenix Suns
+11	Brandon Knight	PG	26	6-3	195	Kentucky	$13,618,750	Phoenix Suns
+21	Alex Len	C	24	7-1	250	Maryland	$4,187,599	Phoenix Suns
+14	Greg Monroe	C	27	6-11	265	Georgetown	$17,884,176	Phoenix Suns
+25	Alec Peters	PF	22	6-9	235	Valparaiso	$815,615 	Phoenix Suns
+32	Davon Reed	SG	22	6-6	210	Miami (FL)	$815,615	Phoenix Suns
+8	Tyler Ulis	PG	21	5-10	160	Kentucky	$1,312,611	Phoenix Suns
+12	TJ Warren	SF	24	6-8	215	North Carolina State	$3,152,931	Phoenix Suns
+15	Alan Williams	PF	24	6-8	265	UC Santa Barbara	$6,000,000	Phoenix Suns
